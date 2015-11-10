@@ -1,2 +1,2 @@
-# program5
-Program 5 assignment and materials.
+# program6
+Program 6 assignment and materials.
